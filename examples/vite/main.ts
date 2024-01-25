@@ -18,6 +18,7 @@ import { message } from '~build/meta';
 import { name, version } from '~build/package';
 
 import { format } from 'date-fns';
+import './playground';
 
 console.log('Build time:', now);
 
